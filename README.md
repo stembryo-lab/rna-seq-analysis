@@ -1,2 +1,2 @@
-# RNA-Seq_Analysis
-Step-by-step pipeline from raw sequencing files and aligning to downstream visualization tools and statistical analysis. 
+# Bulk RNA-Seq Analysis
+Step-by-step pipeline of gastruloids sequencing data at 120h from [Martínez Arias Lab](https://amapress.upf.edu/]).
